@@ -1,0 +1,15 @@
+Beginner level tasks
+
+1. Multiprocessing
+    a. get to know yfinance (pandas_datareader) python library to download stock prices for given dates
+    b. download/save stock prices of sp500 for 1y/5y using single process vs multiprocessing
+    c. compare and visualize results
+
+2 Functional programming
+    a. utilize map, filter, funtool.reduce (a1. show your effort with no resources, a2. show your research using other tools)
+        - define ls = [1,2,3,4,5,6,7,8,9] in python
+        - square all numbers
+        - keep only primes
+        - compute sum of squares
+        - compute MSE
+    b. use lambda functions with pd.DataFrame.apply() to mutate a column/columns (show what you learned)
