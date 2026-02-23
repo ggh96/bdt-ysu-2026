@@ -13,3 +13,7 @@ Beginner level tasks
         - compute sum of squares
         - compute MSE
     b. use lambda functions with pd.DataFrame.apply() to mutate a column/columns (show what you learned)
+
+ONLY submit jupyter notebook in github from your repo dedicated to this course only.
+Keep your notebook structured with related comments and text snippets.
+DO NOT push any redundant code, keep code readability.
